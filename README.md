@@ -1,6 +1,9 @@
 # Angularproject04feb
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) Angular CLI: 14.0.0. <br/>
+
+node --version = v14.20.0 <br/>
+npm --version = 6.14.17 <br/>
 
 ## Development server
 
