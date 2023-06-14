@@ -1,4 +1,4 @@
-# Angularproject04feb
+# TypeScript Project For Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) Angular CLI: 14.0.0. <br/>
 
