@@ -1,6 +1,6 @@
 # TypeScript Project For Angular PART 1
 Hi, <br/>
-This is my First Learning Project on Typescript for Angular PART-1 <br/>
+This is my Learning Project on Typescript for Angular PART-1 <br/>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) Angular CLI: 14.0.0. <br/>
 
 node --version = v14.20.0 <br/>
